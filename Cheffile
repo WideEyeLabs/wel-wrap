@@ -3,18 +3,18 @@ site 'http://community.opscode.com/api/v1'
 cookbook 'meta',
   :path => 'site-cookbooks/meta'
 
-cookbook 'pivotal_workstation',
-  :git => 'git://github.com/pivotal-sprout/sprout.git',
-  :path => 'pivotal_workstation'
+cookbook 'wel-station',
+  :git => 'git@kahdu.org:wide-eye-labs/wel-station.git',
+  :path => 'wel-station'
 
-cookbook 'sprout-osx-apps',
-  :git => 'git://github.com/pivotal-sprout/sprout.git',
-  :path => 'sprout-osx-apps'
+cookbook 'wel-osx-apps',
+  :git => 'git@kahdu.org:wide-eye-labs/wel-station.git',
+  :path => 'wel-osx-apps'
 
-cookbook 'sprout-osx-settings',
-  :git => 'git://github.com/pivotal-sprout/sprout.git',
-  :path => 'sprout-osx-settings'
+cookbook 'wel-osx-settings',
+  :git => 'git@kahdu.org:wide-eye-labs/wel-station.git',
+  :path => 'wel-osx-settings'
 
 cookbook 'osx',
-  :git => 'git://github.com/pivotal-sprout/sprout.git',
+  :git => 'git@kahdu.org:wide-eye-labs/wel-station.git',
   :path => 'osx'
