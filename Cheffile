@@ -3,9 +3,9 @@ site 'http://community.opscode.com/api/v1'
 cookbook 'meta',
   :path => 'site-cookbooks/meta'
 
-cookbook 'wel-station',
+cookbook 'wel_station',
   :git => 'git@kahdu.org:wide-eye-labs/wel-station.git',
-  :path => 'wel-station'
+  :path => 'wel_station'
 
 cookbook 'wel-osx-apps',
   :git => 'git@kahdu.org:wide-eye-labs/wel-station.git',
