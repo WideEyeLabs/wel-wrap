@@ -6,3 +6,7 @@ include_recipe "wel_station::chrome"
 include_recipe "wel-osx-settings::defaults_fast_key_repeat_rate"
 include_recipe "wel-osx-apps::cloudapp"
 include_recipe "wel-osx-apps::plex"
+include_recipe "wel_station::libreoffice"
+include_recipe "wel_station::oh_my_zsh"
+include_recipe "wel_station::alfred"
+
