@@ -9,4 +9,4 @@ include_recipe "wel-osx-apps::cloudapp"
 include_recipe "wel-osx-apps::plex"
 include_recipe "wel-osx-apps::libreoffice"
 include_recipe "wel-osx-apps::alfred"
-
+include_recipe "wel-osx-apps::viber"
