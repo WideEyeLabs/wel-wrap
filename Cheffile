@@ -4,17 +4,17 @@ cookbook 'meta',
   :path => 'site-cookbooks/meta'
 
 cookbook 'wel_station',
-  :git => '/Users/vm/wel-station',
+  :git => 'git@kahdu.org:wide-eye-labs/wel-station.git',
   :path => 'wel_station'
 
 cookbook 'wel-osx-apps',
-  :git => '/Users/vm/wel-station',
+  :git => 'git@kahdu.org:wide-eye-labs/wel-station.git',
   :path => 'wel-osx-apps'
 
 cookbook 'wel-osx-settings',
-  :git => '/Users/vm/wel-station',
+  :git => 'git@kahdu.org:wide-eye-labs/wel-station.git',
   :path => 'wel-osx-settings'
 
 cookbook 'osx',
-  :git => '/Users/vm/wel-station',
+  :git => 'git@kahdu.org:wide-eye-labs/wel-station.git',
   :path => 'osx'
