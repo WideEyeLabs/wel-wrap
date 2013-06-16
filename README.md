@@ -1,8 +1,9 @@
-# sprout-wrap
+# wel-wrap
 
-[![Build Status](https://travis-ci.org/pivotal-sprout/sprout-wrap.png?branch=master)](https://travis-ci.org/pivotal-sprout/sprout-wrap)
+[![Build Status](https://travis-ci.org/WideEyeLabs/wel-wrap.png?branch=master)](https://travis-ci.org/WideEyeLabs/wel-wrap)
 
-Prepares a Mac running OS X Mountain Lion for Ruby development using [soloist](https://github.com/mkocher/soloist) and [Pivotal Workstation](https://github.com/pivotal/pivotal_workstation)
+Prepares a Mac running OS X Mountain Lion for development using
+[soloist](https://github.com/mkocher/soloist).
 
 ## Installation
 
@@ -16,8 +17,8 @@ Prepares a Mac running OS X Mountain Lion for Ruby development using [soloist](h
   
 ### 3. Clone this project
   
-    git clone https://github.com/pivotal-sprout/sprout-wrap.git
-    cd sprout-wrap
+    git clone https://github.com/WideEyeLabs/wel-wrap.git
+    cd wel-wrap
   
 ### 4. Install soloist & and other required gems
 
@@ -27,3 +28,9 @@ Prepares a Mac running OS X Mountain Lion for Ruby development using [soloist](h
 ### 5. Run soloist
   
     bundle exec soloist
+
+
+## Credits
+
+This project is a fork of sprout-wrap from Pivotal Labs. Without their
+awesome work, this project wouldn't exist.
