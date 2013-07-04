@@ -18,3 +18,6 @@ cookbook 'wel-osx-settings',
 cookbook 'osx',
   :git => 'https://github.com/WideEyeLabs/wel-station.git',
   :path => 'osx'
+
+cookbook 'zip',
+  :git => 'https://github.com/WideEyeLabs/zip.git'
